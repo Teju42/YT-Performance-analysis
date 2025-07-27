@@ -4,13 +4,13 @@ This project analyzes YouTube channel performance metrics using a dataset export
 
 ---
 
-##  Objective
+## ✅ Objective
 
-To explore the performance data of a YouTube channel and draw actionable insights using Python and data visualization techniques.
+Explore the performance data of a YouTube channel and draw actionable insights using Python and data visualization techniques.
 
 ---
 
-##  Key Features
+## 📌 Key Features
 
 - Cleaned and structured YouTube analytics CSV export
 - Analyzed:
@@ -21,7 +21,7 @@ To explore the performance data of a YouTube channel and draw actionable insight
 
 ---
 
-##  Tools & Libraries
+## 🛠️ Tools & Libraries
 
 - Python (Jupyter Notebook)
 - Pandas
@@ -31,22 +31,23 @@ To explore the performance data of a YouTube channel and draw actionable insight
 
 ---
 
-##  Files
+## 🗂️ Files
 
 - `YT_performance_analysis.ipynb`: Main notebook with full analysis
 - `YouTube_stats.csv`: Source dataset (if available)
+- `cleaned_youtube_data.csv`: Cleaned output data after EDA
 
 ---
 
-##  Output
+## 🔍 Key Insights
 
+- Videos longer than 15 minutes tend to generate more revenue.
+- Mid-week videos (especially Wednesdays) receive higher engagement.
 - Identified content that drives the most views and watch time
 - Highlighted subscriber trends and traffic sources
-- Visualizations for performance over time
 
 ---
 
-##  Note
+## 📌 Note
 
 This analysis was done using real or sample YouTube analytics data for educational purposes only.
-
