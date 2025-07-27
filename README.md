@@ -33,7 +33,7 @@ Explore the performance data of a YouTube channel and draw actionable insights u
 
 ## 🗂️ Files
 
-- `YouTube_channel_performance_analysis.py`: Main notebook with full analysis
+- `YouTube_channel_performance_analysis.ipynb`: Main notebook with full analysis
 - `YouTube_stats.csv`: Source dataset (if available)
 - `cleaned_youtube_data.csv`: Cleaned output data after EDA
 
